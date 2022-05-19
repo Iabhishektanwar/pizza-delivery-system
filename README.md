@@ -1,4 +1,4 @@
-#Pizza delivery system
+# Pizza delivery system
 
 Ingredient storage is a shared resource that is created using the multiprocessing manager function and is a ListProxy object. This object contains six additional ListProxy objects, each of which has all of the ingredients needed to make a pizza. I have considered four different sorts of toppings in my implementation.
 
